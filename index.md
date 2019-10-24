@@ -50,11 +50,10 @@
           	<div class="text text-center">
           		<span class="subheading">Hey! I am</span>
 		  				<h1>Jason Weible</h1>
-							</div>
-            </div>
+						</div>
           </div>
         </div>
-      </div>
+        </div>
       <div class="mouse">
 				<a href="blog-section" class="mouse-icon">
 					<div class="mouse-wheel"><span class="ion-ios-arrow-round-down"></span></div>
@@ -93,7 +92,7 @@
               </div>
 	          </div>
 	  
-	        
+	        </div>
         </div>
     	</div>
     </section>
