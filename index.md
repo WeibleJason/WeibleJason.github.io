@@ -50,21 +50,13 @@
           	<div class="text text-center">
           		<span class="subheading">Hey! I am</span>
 		  				<h1>Jason Weible</h1>
-		  				<!--
-			  				<h2>I'm a 
-								  <span
-								     class="txt-rotate"
-								     data-period="2000"
-								     data-rotate='[ "Web Designer.", "Developer.", "Photographer.", "Marketer.", "Blogger" ]'></span>
-								</h2>
-							-->
 							</div>
             </div>
           </div>
         </div>
       </div>
       <div class="mouse">
-				<a href="about-info" class="mouse-icon">
+				<a href="blog-section" class="mouse-icon">
 					<div class="mouse-wheel"><span class="ion-ios-arrow-round-down"></span></div>
 				</a>
 			</div>
@@ -101,14 +93,8 @@
 
 	          <div class="counter-wrap ftco-animate d-flex mt-md-3">
               <div class="text">
-              	<!--
-              	<p class="mb-4">
-	                <span class="number" data-number="120">0</span>
-	                <span>Project complete</span>
-                </p>
-            -->
-            
-                <p><a href="#" class="btn btn-primary py-3 px-3">Download Resume</a></p>
+              <!--
+                <p><a href="#" class="btn btn-primary py-3 px-3">Download Resume</a></p> -->
               </div>
 	          </div>
 	  
@@ -300,7 +286,6 @@
       </div> -->
     </footer>
     
-  
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
