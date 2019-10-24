@@ -195,11 +195,11 @@
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
           	<div class="align-self-stretch box text-center p-4 shadow">
           		<div class="d-flex align-items-center justify-content-center">
-          			<a href="https://www.linkedin.com/">
+          			<a href="https://www.linkedin.com/in/jason-weible-7a4b40196">
           			<img src="images/LinkedIn.png" style="width:121px;height:121px;"></a>
           		</div>
           		<div>
-          			<a href="https://www.linkedin.com/">
+          			<a href="https://www.linkedin.com/in/jason-weible-7a4b40196">
 	          		<h3 class="mb-4">Linked In</h3></a>
 		            
 		          </div>
