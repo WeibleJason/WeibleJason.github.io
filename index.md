@@ -80,11 +80,6 @@
 		            <p>Engineering. With an edge.</p>
 		            <ul class="about-info mt-4 px-md-0 px-2">
 		            	<li class="d-flex"><span>Name:</span> <span>Jason Weible</span></li>
-		            	<!--
-		            	<li class="d-flex"><span>Date of birth:</span> <span>November 28, 1989</span></li>
-		            	<li class="d-flex"><span>Address:</span> <span>San Francisco CA 97987 USA</span></li>
-		            	<li class="d-flex"><span>Zip code:</span> <span>1000</span></li>
-		            -->
 		            	<li class="d-flex"><span>Email:</span> <span>weible.8@osu.edu</span></li>
 		            	<!--<li class="d-flex"><span>Phone: </span> <span>+1-2234-5678-9-0</span></li>-->
 		            </ul>
@@ -98,7 +93,7 @@
               </div>
 	          </div>
 	  
-	        </div>
+	        
         </div>
     	</div>
     </section>
@@ -285,7 +280,7 @@
         <!--
       </div> -->
     </footer>
-    
+
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
