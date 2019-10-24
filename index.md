@@ -234,7 +234,7 @@
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
           	<div class="align-self-stretch box text-center p-4 shadow">
-          		<div class="icon d-flex align-items-center justify-content-center">
+          		<div class="d-flex align-items-center justify-content-center">
           			<a href="https://app.joinhandshake.com/users/11535228">
           			<img src="images/handshake.png" style="width:121px;height:121px;"></a>
           		</div>
