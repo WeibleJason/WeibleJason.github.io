@@ -1,0 +1,28 @@
+<html>
+<meta name="viewport" content="width=device-width,initial-scall=1">
+<style>
+    body{ background: white; }
+    .content {max-width: 500px;
+        background: white;
+        padding: 10px;
+        justify-content: center;
+    }
+</style>
+    <head>
+        <title>Automatic Login</title>
+    </head>
+    <body onload="document.forms['securelog'].submit();">
+        <form action="https://u.osu.edu/utatrainingf1245/wp-login.php?privacy=4&redirect_to=https%3A%2F%2Fu.osu.edu%2Futatrainingf1245%2Fmastermind-game-video%2F%2F"
+        method="post" name="securelog">
+            <input type="hidden" name="userid*" value="[enter-your-username-here]">
+            <input type="hidden" name="pwd" value="F1245">
+
+            <!--You can get the name of the username and password fields by looking at the source code of your website's URL. some websites might have 'username' and 'password' as the names for the username and password fields.-->
+
+        </form>
+        <div class="content">
+            <h1>Logging you in. Please be patient...
+            </h1>
+        </div>
+    </body>
+</html>
