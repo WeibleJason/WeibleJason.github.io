@@ -106,12 +106,12 @@
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
               <a href="#">
-              	<img src="images/TimeTrackingC++.png" style="width:300px;height:300px;">
+              	<img src="images/TimeTrackingJava.png" style="width:300px;height:300px;">
               </a>
               <div class="text mt-3 float-right d-block">
                 <h3 class="heading"><a href="#">Java Time Tracking App</a></h3><div class="d-flex align-items-center mb-3 meta">   
                 </div>
-                <p>Programmed a basic time clock application in Java. Designed using the JavaFX library and follows the Model-View-Controller (MVC) software architecture.</p>
+                <p>Programmed a basic time clock application in Java. Designed using the JavaFX library.</p>
               </div>
             </div>
           </div>
