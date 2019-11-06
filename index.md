@@ -104,6 +104,18 @@
         </div>
         <div class="row d-flex">
           <div class="col-md-4 d-flex ftco-animate">
+            <div class="blog-entry justify-content-end">
+              <a href="https://github.com/WeibleJason/TimeTrackingApp">
+                <img src="images/PythonScrapper.png" style="width:300px;height:300px;">
+              </a>
+              <div class="text mt-3 float-right d-block">
+                <h3 class="heading"><a href="https://github.com/WeibleJason/HackOHIO2019">Java Time Tracking App</a></h3><div class="d-flex align-items-center mb-3 meta">   
+                </div>
+                <p>A simple Python Reddit web scrapper. Built during the 2019 Hack Ohio competition.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
               <a href="https://github.com/WeibleJason/TimeTrackingApp">
               	<img src="images/TimeTrackingJava.png" style="width:300px;height:300px;">
