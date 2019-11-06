@@ -105,7 +105,7 @@
         <div class="row d-flex">
           <div class="col-md-4 d-flex ftco-animate">
             <div class="blog-entry justify-content-end">
-              <a href="https://github.com/WeibleJason/TimeTrackingApp">
+              <a href="https://github.com/WeibleJason/HackOHIO2019">
                 <img src="images/PythonScrapper.png" style="width:300px;height:300px;">
               </a>
               <div class="text mt-3 float-right d-block">
