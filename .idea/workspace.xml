@@ -19,8 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d15ba1c-aebc-448c-b07c-bd94b9579c62" name="Default Changelist" comment="Added Personal Site">
-      <change beforePath="$PROJECT_DIR$/HTML - Personal Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML - Personal Site/index.html" afterDir="false" />
+    <list default="true" id="7d15ba1c-aebc-448c-b07c-bd94b9579c62" name="Default Changelist" comment="Updated personal site">
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/JasonCircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/chillies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/favicon/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/img/mountain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stylised - Personal Site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +53,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jason\WebstormProjects\WeibleJason.github.io" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jason\WebstormProjects\WeibleJason.github.io\images" />
     </key>
@@ -55,7 +74,7 @@
       <updated>1620565782799</updated>
       <workItem from="1620565794046" duration="5022000" />
       <workItem from="1620883118499" duration="884000" />
-      <workItem from="1621030131988" duration="4583000" />
+      <workItem from="1621030131988" duration="5631000" />
     </task>
     <task id="LOCAL-00001" summary="Memory Game">
       <created>1620566519288</created>
@@ -113,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621556373699</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updated personal site">
+      <created>1621556615705</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621556615705</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,12 +164,13 @@
     <MESSAGE value="TaskTracker" />
     <MESSAGE value="Added Sources" />
     <MESSAGE value="Added Personal Site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Personal Site" />
+    <MESSAGE value="Updated personal site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated personal site" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621556407598">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621556620510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-465.1080.1880@0.0.1920.1040" timestamp="1621556407598" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-465.1080.1880@0.0.1920.1040" timestamp="1621556620510" />
   </component>
 </project>

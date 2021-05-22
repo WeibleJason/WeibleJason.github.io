@@ -1,0 +1,60 @@
+a {
+    color: #11999E;
+}
+
+body {
+    background-color: #f9f7f7;
+    margin: 0;
+    text-align: center;
+    font-family: 'Comfortaa', Arial, sans-serif;
+    
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-weight: normal;
+}
+
+h2 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    color: #66BFBF;
+}
+
+.top-container p {
+    font-size: 2.5rem;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+   
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.profile img {
+    height: 100px;
+    width: 100px;
+}
