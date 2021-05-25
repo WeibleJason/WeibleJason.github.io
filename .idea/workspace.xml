@@ -19,10 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d15ba1c-aebc-448c-b07c-bd94b9579c62" name="Default Changelist" comment="Updated stylised site">
+    <list default="true" id="7d15ba1c-aebc-448c-b07c-bd94b9579c62" name="Default Changelist" comment="added button, finalized site">
+      <change afterPath="$PROJECT_DIR$/Tindog/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tindog/images/TechCrunch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tindog/images/bizinsider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tindog/images/dog-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tindog/images/iphone6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tindog/images/lady-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tindog/images/mashable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tindog/images/tnw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tindog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylised - Personal Site/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylised - Personal Site/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylised - Personal Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Stylised - Personal Site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +69,7 @@
       <updated>1620565782799</updated>
       <workItem from="1620565794046" duration="5022000" />
       <workItem from="1620883118499" duration="884000" />
-      <workItem from="1621030131988" duration="8394000" />
+      <workItem from="1621030131988" duration="9487000" />
     </task>
     <task id="LOCAL-00001" summary="Memory Game">
       <created>1620566519288</created>
@@ -133,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621716499107</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added button, finalized site">
+      <created>1621729449581</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1621729449581</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,12 +175,13 @@
     <MESSAGE value="Added Personal Site" />
     <MESSAGE value="Updated personal site" />
     <MESSAGE value="Updated stylised site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated stylised site" />
+    <MESSAGE value="added button, finalized site" />
+    <option name="LAST_COMMIT_MESSAGE" value="added button, finalized site" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621716503219">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621729451424">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-465.1080.1880@0.0.1920.1040" timestamp="1621716503219" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-465.1080.1880@0.0.1920.1040" timestamp="1621729451424" />
   </component>
 </project>
