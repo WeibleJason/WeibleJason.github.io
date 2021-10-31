@@ -20,21 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d15ba1c-aebc-448c-b07c-bd94b9579c62" name="Default Changelist" comment="Drum Kit">
-      <change afterPath="$PROJECT_DIR$/SimonGame/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimonGame/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimonGame/sounds/blue.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimonGame/sounds/green.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimonGame/sounds/red.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimonGame/sounds/wrong.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimonGame/sounds/yellow.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimonGame/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Jason.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexOLD.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML - Personal Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML - Personal Site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/single.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,13 +48,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="C:\Users\Jason\WebstormProjects\WeibleJason.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -69,6 +75,7 @@
       <workItem from="1620565794046" duration="5022000" />
       <workItem from="1620883118499" duration="884000" />
       <workItem from="1621030131988" duration="13475000" />
+      <workItem from="1635567561979" duration="6170000" />
     </task>
     <task id="LOCAL-00001" summary="Memory Game">
       <created>1620566519288</created>
